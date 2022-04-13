@@ -1,0 +1,29 @@
+{
+  "name": "spl-token-cli",
+  "version": "1.0.0",
+  "description": "SPL token CLI (NFT, Fungible Asset, Fungible Token)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docongminh/spl-token-cli.git"
+  },
+  "keywords": [
+    "spl-token",
+    "cli"
+  ],
+  "author": "@minhdocs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/docongminh/spl-token-cli/issues"
+  },
+  "homepage": "https://github.com/docongminh/spl-token-cli#readme",
+  "dependencies": {
+    "ts-node": "^10.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
