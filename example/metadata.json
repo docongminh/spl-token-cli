@@ -1,0 +1,8 @@
+{
+  "name": "NEKO Coin",
+  "symbol": "NKC",
+  "description": "Test build neko token",
+  "image": "https://cdn.discordapp.com/attachments/953573404395585596/960393815208914964/Group_7996_1.png",
+  "external_url": "https://github.com/docongminh",
+  "seller_fee_basis_points": 0
+}
