@@ -13,7 +13,10 @@ SPL token CLI (NFT, Fungible Asset, Fungible Token)
         "description": "Test build neko token",
         "image": "https://cdn.discordapp.com/attachments/953573404395585596/960393815208914964/Group_7996_1.png",
         "external_url": "https://github.com/docongminh",
-        "seller_fee_basis_points": 0
+        "seller_fee_basis_points": 0,
+        "properties": {
+          "creators": []
+         }
       }
     ```
   - Step 2: Upload metadata to storage (currently `nft-storage`)
